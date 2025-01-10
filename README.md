@@ -1,5 +1,6 @@
 🌟 About Me
-
+Hey,
+I am Ali Ahmad
 🎓 A second-year B.Tech student specializing in Computer Science and Engineering.
 💻 Passionate about web development, Python programming, and designing creative visuals.
 🛠️ Currently honing my skills in Data Structures and C programming.
@@ -17,6 +18,7 @@
 ✨ Let's Connect
 
 💼 LinkedIn https://www.linkedin.com/in/ali-ahmad-59a076301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 ✉️ Reach me at: aliahmad.rbl.92@gmail.com.com
 
 <!---
