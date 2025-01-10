@@ -4,7 +4,6 @@ I am Ali Ahmad
 🎓 A second-year B.Tech student specializing in Computer Science and Engineering.
 💻 Passionate about web development, Python programming, and designing creative visuals.
 🛠️ Currently honing my skills in Data Structures and C programming.
-🌍 Based in Hyderabad, exploring tech opportunities and innovative solutions.
 🌐 What I Do
 
 🚀  HTML, CSS, and Python.
